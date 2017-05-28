@@ -1,0 +1,9 @@
+{
+    "name": "opensoft-scriptaculos-bower",
+    "version": "1.9.0",
+    "description": "A wrapper around Scriptaculous for the bower registry",
+    "license": "https://github.com/opensoft/scriptaculous-bower/blob/master/MIT-LICENSE",
+    "dependencies": {
+        "opensoft-prototypejs-bower": "https://github.com/opensoft/prototypejs-bower.git#b12a8ac1dd540a83cc3a7e61a5ce7b3aa796b2bf"
+    }
+}
